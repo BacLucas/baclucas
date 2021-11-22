@@ -17,6 +17,6 @@
 </div>
   
    ##
- 
-<div> 
+<h3>Me contate por aqui<h3>
+  <div> 
   <a href="https://www.linkedin.com/in/lucasbaccelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
