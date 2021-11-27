@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Baccelli, estudante Full Stack.
+## Hello! My name is Lucas and I'm a full stack student
 
 <div align="center">
   <a href="https://github.com/baclucas">
@@ -17,6 +17,6 @@
 </div>
   
    ##
-<h3>Me contate por aqui<h3>
+<h3>Contact me here!<h3>
   <div> 
   <a href="https://www.linkedin.com/in/lucasbaccelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
